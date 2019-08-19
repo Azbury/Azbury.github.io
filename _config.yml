@@ -1,11 +1,11 @@
 # Site settings
 author: Austin Asbury
-title: 
+title: My Adventures in the World of Software Engineering
 header-img: img/home-bg.png
 email: acasbury25@aol.com
 copyright_name: Austin Asbury
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Work Harder and Smarter
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Azbury
