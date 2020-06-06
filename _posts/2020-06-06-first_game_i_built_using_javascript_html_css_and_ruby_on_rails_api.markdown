@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Game I Built Using Javascript, HTML, CSS, and Ruby on Rails API"
-date:       2020-06-06 19:23:42 +0000
+date:       2020-06-06 15:23:43 -0400
 permalink:  first_game_i_built_using_javascript_html_css_and_ruby_on_rails_api
 ---
 
